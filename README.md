@@ -49,5 +49,3 @@ Deploy Python Web App
 ├── 10_backup_application/
 └── README.md
 ```
-ding
-```
