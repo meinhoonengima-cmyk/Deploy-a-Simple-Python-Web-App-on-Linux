@@ -1,23 +1,3 @@
-# Real-World Bash Learning Project
-
-# Goal
-
-This repository is designed to teach Bash scripting, Linux fundamentals, and backend operational thinking through a single connected real-world project.
-
-Instead of memorizing isolated commands, this project focuses on:
-
-```text
-Real Problem
-→ Small Operational Subproblem
-→ Commands
-→ Bash Automation
-→ System Understanding
-```
-
-The final goal is to understand how real SaaS/backend systems are deployed and maintained on Linux.
-
----
-
 # Project Theme
 
 ## Deploy a Simple Python Web Application on Linux
